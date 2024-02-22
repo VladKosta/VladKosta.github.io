@@ -41,3 +41,9 @@ h3.sect{
 li{
     margin-bottom: 10px;
 }
+
+blockquote{
+    text-shadow: darkgoldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
