@@ -1,3 +1,15 @@
+body{
+
+font-size: 18px;
+color: #333;
+}
+
+
+
+
+
+
+
 h1{
     margin-top: 50px;
     margin-bottom: 10px;
@@ -18,4 +30,14 @@ section {
     padding-right: 50px;
     padding-top: 0;
     padding-bottom: 0;
+}
+
+h3.sect{
+    padding:0 0 0 0;
+    text-align: left;
+    margin: 0%;
+}
+
+li{
+    margin-bottom: 10px;
 }
